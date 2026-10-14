@@ -1,4 +1,4 @@
-## Atividade prática 11 - Relacionamento entre tabelas
+## Atividade prática 12 - Normalização de Banco de Dados
 
 1-Primeiro Criamos a tabela:
 ```sql
